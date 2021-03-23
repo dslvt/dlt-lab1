@@ -11,3 +11,5 @@ To start use Node
 2. go to the root folder
 3. npm install
 4. npm run start
+
+![img](https://i.imgur.com/0QKNEkk.png)
